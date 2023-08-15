@@ -120,7 +120,7 @@ jobs:
         ruby-version:
           - '3.0'
           - '3.1'
-          - 'truffleruby-dev'
+          - 'truffleruby-head'
           - '.ruby-version'
         ci_job:
           - 1
